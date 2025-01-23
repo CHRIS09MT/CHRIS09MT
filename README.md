@@ -1,4 +1,8 @@
-# Hi, I'm Christopher! 👨‍💻 🇨🇴 💛💙❤️  
+<div align="center"> 
+
+## Hi, I'm Christopher 👨‍💻co💛💙❤️
+
+</div>
 
 <p align="center">
   <img src="https://cdn-icons-png.flaticon.com/128/84/84111.png" alt="Profile Banner">
