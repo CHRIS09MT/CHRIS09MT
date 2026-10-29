@@ -5,14 +5,14 @@
 </div>
 
 <p align="center">
-  <img src="https://cdn-icons-png.flaticon.com/128/84/84111.png" alt="Profile Banner">
+  <img src="[https://cdn-icons-png.flaticon.com/128/84/84111.png](https://www.facebook.com/100079619777017/mentions/)" alt="Profile Banner">
 </p>
 
 ---
 
 ## 🚀 About Me  
 
-🌟 **Hello there!** I'm Christopher, a dedicated and detail-oriented **Back-End Developer (Junior)** recently graduated from **Holberton School**.  
+🌟 **Hello there!** I'm Christopher, a dedicated and detail-oriented **Back-End Developer (Junior)**, graduated from **Holberton School*0*, and a student at the **Universidad del Valle**.
 💡 I specialize in building **robust, scalable APIs** and integrating systems using clean code principles.  
 🛠️ Passionate about Python ecosystems and modern backend tools like **FastAPI**, **Docker**, and **MongoDB**.  
 📚 Currently learning more about **CI/CD**, **DevOps**, and **cloud deployments**.  
