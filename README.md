@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-  <img src="[https://cdn-icons-png.flaticon.com/128/84/84111.png](https://www.facebook.com/100079619777017/mentions/)" alt="Profile Banner">
+  <img src="https://cdn-icons-png.flaticon.com/128/84/84111.png" alt="Profile Banner">
 </p>
 
 ---
