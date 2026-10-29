@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-  <img src="[https://cdn-icons-png.flaticon.com/128/84/84111.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeRd6nGKJvZG_lW4XPN_dLZYqWi2tzpRBh9ttWX2TqmK7oT6ZQkpqT3TBg&s=10)" alt="Profile Banner">
+  <img src="https://cdn-icons-png.flaticon.com/128/84/84111.png" alt="Profile Banner">
 </p>
 
 ---
